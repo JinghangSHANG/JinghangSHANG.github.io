@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 School of Cyber Science and Engineering   
-
 Southeast University   
-
 Nanjing, China
 
 Biography
