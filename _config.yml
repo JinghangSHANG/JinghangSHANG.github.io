@@ -23,9 +23,9 @@ repository               : "academicpages/jinghangshang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jinghang Shang"
+  name             : "     Jinghang Shang"
   pronouns         : # example: "she/her"  
-  bio              : "MS student from SEU"
+  bio              : "   MS student from SEU"
   location         : "Nanjing, China"
   employer         : "Southeast University"
   uri              : # URL
