@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-School of Cyber Science and Engineering
-Southeast University
+School of Cyber Science and Engineering   
+
+Southeast University   
+
 Nanjing, China
 
 Biography
